@@ -2,7 +2,7 @@
 
 The object was to look at bike sharing rentals through NYC. One of the most important things to look at is trip duration, especially during the summer. Using bike sharing data, the rentals frequency was analyzed and sorted through pandas and into tableu to ive an insight of trends of rentals.
 
-Results:
+#Results:
 
 There was a total of 2,344,224 trips in the month of August.
 
@@ -12,7 +12,7 @@ The most common length of trip duration is5-6 hours.
 
 link to dashboard
 
-Summary
+#Summary
 Using the data we were able to create a dashboard of trips by gender, day of week and total checkout time for users.
 
 
